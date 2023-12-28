@@ -34,6 +34,10 @@ public class first{
         float f = 3.14f;
         long c = (long)f;
         System.out.println(c);
+
+        //variable name can start wit '_' and can be $
+        int $= 5;
         
+        System.out.println($);
     }
 }
